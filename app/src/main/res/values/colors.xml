@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary">#6D5A4B</color>
+    <color name="colorPrimaryDark">#5A493B</color>
+    <color name="colorAccent">#FFC000</color>
+    <color name="colorBackground">#F9EFCE</color>
+    <color name="colorBookshelfYellow">#F8E6B2</color>
+    <color name="colorBookshelfOrange">#FAD4AF</color>
+    <color name="colorBookshelfRed">#FDAFAB</color>
+    <color name="colorBookshelfPink">#FBDEE2</color>
+    <color name="colorBookshelfSkyblue">#D9F1F1</color>
+    <color name="colorBookshelfblue">#B6E3E9</color>
 </resources>
