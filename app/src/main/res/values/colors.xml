@@ -2,6 +2,7 @@
 <resources>
     <color name="colorPrimary">#6D5A4B</color>
     <color name="colorPrimaryDark">#5A493B</color>
+    <color name="colorPrimaryLight">#8D725E</color>
     <color name="colorAccent">#FFC000</color>
     <color name="colorBackground">#F9EFCE</color>
     <color name="colorBookshelfYellow">#F8E6B2</color>
