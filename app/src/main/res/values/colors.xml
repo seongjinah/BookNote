@@ -11,4 +11,5 @@
     <color name="colorBookshelfPink">#FBDEE2</color>
     <color name="colorBookshelfSkyblue">#D9F1F1</color>
     <color name="colorBookshelfblue">#B6E3E9</color>
+    <color name="white">#FFFFFF</color>
 </resources>

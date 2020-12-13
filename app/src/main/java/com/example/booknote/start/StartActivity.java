@@ -9,6 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.booknote.Bookshelf_Activity;
 import com.example.booknote.MainActivity;
 import com.example.booknote.R;
 
@@ -28,8 +29,9 @@ public class StartActivity extends AppCompatActivity {
         public void handleMessage(@NonNull Message msg) {
             super.handleMessage(msg);
             if(msg.what == 1){
-                Intent intent = new Intent(StartActivity.this, MainActivity.class);
+                Intent intent = new Intent(StartActivity.this, Bookshelf_Activity.class);
                 startActivity(intent);
+                finish();
             }
         }
     };
